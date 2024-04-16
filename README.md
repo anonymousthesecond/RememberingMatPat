@@ -76,4 +76,4 @@ Thank you for playing! Goodbye!
 
 ---
 
-BUT HEY!!!! THAT'S JUST A THEORY!!!A GAME THEORY!!!!!Thanks for Watching!
+# BUT HEY!!!! THAT'S JUST A THEORY!!!A GAME THEORY!!!!!Thanks for Watching!
