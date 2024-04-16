@@ -74,5 +74,5 @@ while True:
     verify_answer(selected_question, user_answer)
     play_again = input("Would you like to receive another question? (yes/no): ")
     if play_again.lower() != 'yes':
-        print("Thank you for playing! Goodbye!")
+        print("BUT HEY!!!! THAT'S JUST A THEORY!!!A GAME THEORY!!!!! Thanks for playing!!")
         break
